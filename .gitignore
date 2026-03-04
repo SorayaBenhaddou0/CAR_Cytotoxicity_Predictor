@@ -1,0 +1,8 @@
+# Training data and notebook (confidential)
+CytoCARs_Traning_Notebook_23_01_2026.ipynb
+Matrice_CAR_constructs_V2.xlsx
+processed_car_data_with_embeddings.pkl
+best_hyperparameters.joblib
+
+# Claude Code internal
+.claude/
