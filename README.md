@@ -45,7 +45,7 @@ Five amino acid sequences, one per CAR domain:
 | Domain | Description |
 |--------|-------------|
 | **Peptide_Signal** | Signal peptide |
-| **scFv** | Single-chain variable fragment (antigen binding domain) |
+| **AntigenBindingDomain** | Antigen binding domain |
 | **Hinge** | Hinge region |
 | **TM** | Transmembrane domain |
 | **Tail** | Intracellular signaling domain |
